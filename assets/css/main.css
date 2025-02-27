@@ -153,7 +153,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: purple;
+		color: #61686b;
 		font-weight: 800;
 		letter-spacing: 0.075em;
 		line-height: 1em;
@@ -2809,7 +2809,7 @@ input, select, textarea {
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
-				color: #ffffff;
+				color: purple;
 			}
 
 			#header header a {
